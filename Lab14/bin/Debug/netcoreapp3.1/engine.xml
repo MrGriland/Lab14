@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Engine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fuel>diesel</Fuel>
+  <Power>167</Power>
+  <Consumption>7.1</Consumption>
+  <Capacity>2.4</Capacity>
+</Engine>

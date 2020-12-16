@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfEngine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Engine>
+    <Fuel>petrol</Fuel>
+    <Power>167</Power>
+    <Consumption>7.1</Consumption>
+    <Capacity>2.4</Capacity>
+  </Engine>
+  <Engine>
+    <Fuel>diesel</Fuel>
+    <Power>130</Power>
+    <Consumption>7.1</Consumption>
+    <Capacity>2.4</Capacity>
+  </Engine>
+  <Engine>
+    <Fuel>petrol</Fuel>
+    <Power>167</Power>
+    <Consumption>12.1</Consumption>
+    <Capacity>2.5</Capacity>
+  </Engine>
+</ArrayOfEngine>
